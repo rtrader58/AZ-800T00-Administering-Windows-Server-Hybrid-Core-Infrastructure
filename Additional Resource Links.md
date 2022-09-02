@@ -4,9 +4,10 @@
 Lab Environment – https://interfacett.learnondemand.net <br>
 Replay - https://replay.interfacett.com <br>
 Interface Technical Training – https://interfacett.com <br>
-Exam discount - https://www.interfacett.com/microsoft-certification-exams/ <br>
-Exam objectives - https://docs.microsoft.com/en-us/learn/certifications/exams/az-800 <br>
 Microsoft Certified: Windows Server Hybrid Administrator Associate - https://docs.microsoft.com/en-us/learn/certifications/windows-server-hybrid-administrator/ <br>
+AZ-800 Exam objectives - https://docs.microsoft.com/en-us/learn/certifications/exams/az-800 <br>
+AZ-800 Exam Study guide - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKI0r<br>
+Exam discount - https://www.interfacett.com/microsoft-certification-exams/ <br>
 Windows Server Documentation - https://docs.microsoft.com/en-us/windows-server/ <br>
 Azure Platforms Blog - https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform  <br> 
 Channel 9 - https://channel9.msdn.com? <br>
