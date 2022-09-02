@@ -9,7 +9,7 @@ Exam objectives - https://docs.microsoft.com/en-us/learn/certifications/exams/az
 Microsoft Certified: Windows Server Hybrid Administrator Associate - https://docs.microsoft.com/en-us/learn/certifications/windows-server-hybrid-administrator/ <br>
 Windows Server Documentation - https://docs.microsoft.com/en-us/windows-server/ <br>
 Azure Platforms Blog - https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform  <br> 
-Channel 9 - https://channel9.msdn.com <br>  
+Channel 9 - https://channel9.msdn.com? <br>
 Azure Blog - https://azure.microsoft.com/en-us/blog <br>
 Microsoft Learn Blog - https://www.microsoft.com/en-us/learning/community-blog.aspx <br>
 ## Module 1
