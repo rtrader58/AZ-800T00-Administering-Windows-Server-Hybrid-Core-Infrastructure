@@ -4,7 +4,7 @@
 
 ## Module 02:  Implementing integration between AD DS and Azure AD  
 
-## Lab Setup:  
+## Lab Setup:  <br>
 
 Step 9: If challenged with “Help us prove you’re not a bot” enter the Captia and hit submit.  
 
