@@ -6,32 +6,32 @@
 
 ## Lab Setup:  <br>
 
-Step 9: If challenged with “Help us prove you’re not a bot” enter the Captia and hit submit.  
+Step 9: If challenged with “Help us prove you’re not a bot” enter the Captia and hit submit.<br>  
 
-### Exercise 1:  Preparing Azure AD for AD DS integration  
+### Exercise 1:  Preparing Azure AD for AD DS integration  <br>
 
-Task 1: Create a custom domain in Azure 
-Step 2:  Use the credential used to redeem the Azure Pass  
+Task 1: Create a custom domain in Azure <br>
+Step 2:  Use the credential used to redeem the Azure Pass <br> 
 
-Task 2: Create a user with the Global Administrator role  
-After step 8, click on the new user you created and copy the new users User Principle Name.  I recommend you open Notepad on your computer connecting to the lab environment and paste the account so you can use it in future labs.  
+Task 2: Create a user with the Global Administrator role  <br>
+After step 8, click on the new user you created and copy the new users User Principle Name.  I recommend you open Notepad on your computer connecting to the lab environment and paste the account so you can use it in future labs.<br>  
 
-Task 3: Change the password for the user with the Global Administrator role  
-Step 3:  Paste the logon name you previously copied.  
+Task 3: Change the password for the user with the Global Administrator role <br> 
+Step 3:  Paste the logon name you previously copied. <br> 
 
-### Exercise 4: Verifying integration between AD DS and Azure AD  
+### Exercise 4: Verifying integration between AD DS and Azure AD <br> 
 
-Synchronization may take up to 15 minutes until the step 2 updates with status of synchronization.  
+Synchronization may take up to 15 minutes until the step 2 updates with status of synchronization.  <br>
 
-### Exercise 5: Implementing Azure AD integration features in AD DS  
+### Exercise 5: Implementing Azure AD integration features in AD DS  <br>
 
-Task 1: Enable self-service password reset in Azure 
-Step 12:  It may take up to 15 minutes before Password Reset is available after activating the P2 subscription.  Try refreshing the screen 
+Task 1: Enable self-service password reset in Azure <br>
+Step 12:  It may take up to 15 minutes before Password Reset is available after activating the P2 subscription.  Try refreshing the screen <br>
 
 Task 5: Install and register the Azure AD Password Protection proxy service and DC agent <br> 
 Steps 7, 8 and 9 the CMDlets need to be copied and pasted as individual commands.  If needed, when pasting the commands remove the >> at the end<br>
 Step 7:  When pasting the 2nd and 3rd  line change the .msi to .exe <br>
-Step 8: Wait approximately 5 minutes before running the restart command to allow the Agent to install 
+Step 8: Wait approximately 5 minutes before running the restart command to allow the Agent to install <br>
 
 
  
