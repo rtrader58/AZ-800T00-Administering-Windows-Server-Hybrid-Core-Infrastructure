@@ -1,19 +1,19 @@
-# AZ-800T00 Configuring Windows Server Hybrid Core Infrastructure - Module 8 Errata
+# AZ-800T00 Configuring Windows Server Hybrid Core Infrastructure - Module 8 Errata<br>
 
-## NOTE:  After launching lab environment use the power commands to restart all the virtual machines with the exception of the Domain Controller.  (reason – virtual machines do not authenticate during start up do to they start before the DC does)  
+## NOTE:  After launching lab environment use the power commands to restart all the virtual machines with the exception of the Domain Controller.  (reason – virtual machines do not authenticate during start up do to they start before the DC does) <br> 
 
-## Module 08 – Implementing hybrid networking infrastructure 
+## Module 08 – Implementing hybrid networking infrastructure <br>
 
-### Exercise 1: Implement virtual network routing in Azure 
+### Exercise 1: Implement virtual network routing in Azure <br>
 
-Task 1: Provision lab infrastructure resources 
-Step 6:  Copy and paste each line individually.  Replace ‘<azure_region>’ with ‘eastus’ 
-Step 7:  Copy and paste all lines, press enter after pasting 
-Step 8:  Copy and paste all lines, press enter after pasting 
+Task 1: Provision lab infrastructure resources <br>
+Step 6:  Copy and paste each line individually.  Replace ‘<azure_region>’ with ‘eastus’ <br>
+Step 7:  Copy and paste all lines, press enter after pasting <br>
+Step 8:  Copy and paste all lines, press enter after pasting <br>
 
-Task 3: Test transitivity of virtual network peering 
-Step 15:  Select IP Address in the Address prefix source before adding the Address Prefix 
+Task 3: Test transitivity of virtual network peering <br>
+Step 15:  Select IP Address in the Address prefix source before adding the Address Prefix <br>
 
-### Exercise 3: Deprovisioning the Azure environment 
+### Exercise 3: Deprovisioning the Azure environment <br>
 
-CloudShell commands do not paste properly, copy and paste manually 
+CloudShell commands do not paste properly, copy and paste manually <br>
