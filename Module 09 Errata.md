@@ -1,8 +1,11 @@
 # AZ-800T00 Configuring Windows Server Hybrid Core Infrastructure - Module 9 Errata <br>
+<br>
 
 ## NOTE:  After launching lab environment use the power commands to restart all the virtual machines with the exception of the Domain Controller.  (reason – virtual machines do not authenticate during start up do to they start before the DC does)  <br>
+<br>
 
 ## Module 09:  Implementing Storage Solutions in Windows Server <br> 
+<br>
 
 ### Exercise 1: Implementing Data Deduplication <br>
 

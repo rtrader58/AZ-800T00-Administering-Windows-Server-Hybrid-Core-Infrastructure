@@ -1,29 +1,33 @@
 # AZ-800T00 Configuring Windows Server Hybrid Core Infrastructure - Module 7 Errata
+<br>
 
 ## NOTE:  After launching lab environment use the power commands to restart all the virtual machines with the exception of the Domain Controller.  (reason – virtual machines do not authenticate during start up do to they start before the DC does)  
+<br>
 
 ## Module 07:  Implementing and configuring network infrastructure services in Windows Server 
+<br>
 
 ### Exercise 1: Deploying and configuring DHCP 
 
-Task 1: Install the DHCP role 
-The WAC is already installed 
+Task 1: Install the DHCP role <br>
+The WAC is already installed <br>
 
-Task 3: Create a scope 
-You may have to refresh the page for the DHCP tool to display 
+Task 3: Create a scope <br>
+You may have to refresh the page for the DHCP tool to display <br>
 
-Step 1:  Once you click on the DHCP tool you may be prompted to Install the PowerShell RSAT tools.  Click Install 
+Step 1:  Once you click on the DHCP tool you may be prompted to Install the PowerShell RSAT tools.  Click Install <br>
+<br>
 
 ### Exercise 2: Deploying and configuring DNS 
 
-Task 2: Create a DNS zone 
-You may have to refresh the page for the DNS tool to display 
+Task 2: Create a DNS zone<br> 
+You may have to refresh the page for the DNS tool to display <br>
 
-Step 1:  Once you click on the DNS tool you may be prompted to Install the PowerShell RSAT tools.  Click Install 
+Step 1:  Once you click on the DNS tool you may be prompted to Install the PowerShell RSAT tools.  Click Install <br>
 
-Task 5: Configure DNS policies 
-The paste function does not paste correctly in this task.  Copy and paste them manually 
+Task 5: Configure DNS policies <br>
+The paste function does not paste correctly in this task.  Copy and paste them manually <br>
 
-Task 6: Verify DNS policy functionality 
-Step 3:  Only paste the second Cmdlet. 
-Step 9:  Only paste the second Cmdlet. 
+Task 6: Verify DNS policy functionality <br>
+Step 3:  Only paste the second Cmdlet. <br>
+Step 9:  Only paste the second Cmdlet. <br>

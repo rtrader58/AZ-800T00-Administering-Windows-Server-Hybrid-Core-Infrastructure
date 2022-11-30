@@ -1,10 +1,13 @@
 # AZ-800T00 Configuring Windows Server Hybrid Core Infrastructure - Module 2 Errata
+<br>
 
 ## NOTE:  After launching each lab environment use the power commands to restart all the virtual machines with the exception of the Domain Controller.  (reason – virtual machines do not authenticate during start up do to they start before the DC does)  
+<br>
 
 ## Module 02:  Implementing integration between AD DS and Azure AD  
+<br>
 
-## Lab Setup:  <br>
+## Lab Setup: 
 
 Step 9: If challenged with “Help us prove you’re not a bot” enter the Captia and hit submit.<br>  
 
