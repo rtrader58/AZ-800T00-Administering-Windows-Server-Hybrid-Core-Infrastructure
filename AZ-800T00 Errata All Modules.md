@@ -67,27 +67,7 @@ Step 6:  Does not paste correctly.  Paste the top 2 lines individually.  Then pa
 
 ### Exercise 3: Deploying Windows Admin Center gateway in Azure 
 
-Task 1: Install Windows Admin Center gateway in Azure <br>
-You can temporarily downgrade the Az.Compute module version in Cloud Shell. The change is not persistent, so when you spin up a new instance of cloud shell the latest version of Az.Compute module will be used again. The process is extremely simple:<br> 
-<br>
-
-### install the required version by typing the following commands in the cloud shell
- 
-Install-Module -Name Az.Compute -Force -RequiredVersion 4.23.0 <br>
-<br>
-
-### To reload the session so the new module is used type the following
-
-pwsh <br>
-<br>
-
-### To verify the version is correct type the following
-
-Get-Module -Name Az.Compute <br>
-
-Note:  Unless you click the X button to close the cloud shell, the 4.23.0 version will be used. <br>
-
-Remaining steps:  If the the powerShell Cmdlets does not paste correctly.  Copy and paste them <br>
+If the the powerShell Cmdlets do not paste correctly.  Copy and paste them <br>
 
 Step 6: replace the script parametes with the following <br>
 
