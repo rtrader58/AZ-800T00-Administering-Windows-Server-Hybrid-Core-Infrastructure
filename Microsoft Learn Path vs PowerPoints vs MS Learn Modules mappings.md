@@ -9,8 +9,8 @@ Module 4: Manage advanced features of AD DS - https://learn.microsoft.com/en-us/
 
 ## Learning Path 1: Deploy and manage identity infrastructure (Hybrid scenarios) - ILT PPT Module 2
 
-Module 1: Implement hybrid identity with Windows Server - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-identity-windows-server/<br>
-Module 2: Deploy and manage Azure IaaS Active Directory domain controllers in Azure - Dhttps://learn.microsoft.com/en-us/training/modules/deploy-manage-azure-iaas-active-directory-domain-controllers-azure/<br>
+Module 5: Implement hybrid identity with Windows Server - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-identity-windows-server/<br>
+Module 5: Deploy and manage Azure IaaS Active Directory domain controllers in Azure - Dhttps://learn.microsoft.com/en-us/training/modules/deploy-manage-azure-iaas-active-directory-domain-controllers-azure/<br>
 
 ## Learning Path 2: Manage Windows Servers and workloads in a hybrid environment (Windows Server administration) – ILT PPT Module 3
 
@@ -21,8 +21,8 @@ Module 4: Just Enough Administration in Windows Server - https://learn.microsoft
 
 ## Learning Path 2: Manage Windows Servers and workloads in a hybrid environment (Facilitating hybrid management)  - ILT PPT Module 4
 
-Module 1: Administer and manage Windows Server IaaS Virtual Machine remotely - https://docs.microsoft.com/en-us/learn/modules/administer-manage-windows-server-iaas-virtual-machine-remotely/<br>
-Module 2: Manage hybrid workloads with Azure Arc - https://docs.microsoft.com/en-us/learn/modules/manage-hybrid-workloads-azure-arc/<br>
+Module 5: Administer and manage Windows Server IaaS Virtual Machine remotely - https://docs.microsoft.com/en-us/learn/modules/administer-manage-windows-server-iaas-virtual-machine-remotely/<br>
+Module 6: Manage hybrid workloads with Azure Arc - https://docs.microsoft.com/en-us/learn/modules/manage-hybrid-workloads-azure-arc/<br>
 
 ## Learning Path 3: Manage virtualization and containers in a hybrid environment (Hyper-V virtualization in Windows Server) - ILT PPT Module 5
 
@@ -34,9 +34,9 @@ Module 5: Orchestrate containers on Windows Server using Kubernetes - https://le
  
 ## Learning Path 3: Manage virtualization and containers in a hybrid environment (Deploying and configuring Azure VMs)  - ILT PPT Module 6
 
-Module 1: Plan and deploy Windows Server IaaS Virtual Machines - https://docs.microsoft.com/en-us/learn/modules/plan-deploy-windows-server-iaas-virtual-machines/<br>
-Module 2: Customize Windows Server IaaS Virtual Machine images - https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-dns/<br>
-Module 3: Automate the configuration of Windows Server IaaS Virtual Machines - https://docs.microsoft.com/en-us/learn/modules/automate-configuration-of-windows-server-iaas-virtual-machines/<br>
+Module 6: Plan and deploy Windows Server IaaS Virtual Machines - https://docs.microsoft.com/en-us/learn/modules/plan-deploy-windows-server-iaas-virtual-machines/<br>
+Module 7: Customize Windows Server IaaS Virtual Machine images - https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-dns/<br>
+Module 8: Automate the configuration of Windows Server IaaS Virtual Machines - https://docs.microsoft.com/en-us/learn/modules/automate-configuration-of-windows-server-iaas-virtual-machines/<br>
 
 ## Learning Plan 4: Implement and manage an on-premises and hybrid networking infrastructure (Network infrastructure services in Windows Server) - ILT PPT Module 7
 
@@ -47,9 +47,9 @@ Module 4: Implement remote access - https://docs.microsoft.com/en-us/learn/modul
 
 ## Learning Path 4:  Implement and manage an on-premises and hybrid networking infrastructure (Implementing hybrid networking infrastructure) - ILT PPT Module 8
 
-Module 1: Implement hybrid network infrastructure - https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-network-infrastructure/<br>
-Module 2: Implement DNS for Windows Server IaaS VMs - https://docs.microsoft.com/en-us/learn/modules/implement-dns-for-windows-server-iaas-virtual-machines/<br>
-Module 3: Implement Windows Server IaaS VM IP addressing and routing - https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-iaas-virtual-machine-ip-addressing-routing/<br>
+Module 5: Implement hybrid network infrastructure - https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-network-infrastructure/<br>
+Module 6: Implement DNS for Windows Server IaaS VMs - https://docs.microsoft.com/en-us/learn/modules/implement-dns-for-windows-server-iaas-virtual-machines/<br>
+Module 7: Implement Windows Server IaaS VM IP addressing and routing - https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-iaas-virtual-machine-ip-addressing-routing/<br>
 
 ## Learning Path 5: Configure storage and file services (File servers and storage management in Windows Server - ILT PPT Module 9
 
@@ -61,6 +61,6 @@ Module 5: Implement Windows Server Storage Replica - https://docs.microsoft.com/
 
 ## Learning Path 5: Configure storage and file services (Implementing a hybrid file server infrastructure)  - ILT PPT Module 10
 
-Module 1: Implement a hybrid file server infrastructure Overview of Azure file services) - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-file-server-infrastructure/<br>
-Module 1 (cont.): Implement a hybrid file server infrastructure (Implementing Azure File Sync) - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-file-server-infrastructure/6-implement-azure-file-synchronization<br>
+Module 6: Implement a hybrid file server infrastructure Overview of Azure file services) - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-file-server-infrastructure/<br>
+Module 7: Implement a hybrid file server infrastructure (Implementing Azure File Sync) - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-file-server-infrastructure/6-implement-azure-file-synchronization<br>
 
