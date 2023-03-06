@@ -32,7 +32,7 @@ Module 3: Secure Hyper-V workloads - https://learn.microsoft.com/en-us/training/
 Module 4: Run containers on Windows Server - https://learn.microsoft.com/en-us/training/modules/run-containers-windows-server/<br>
 Module 5: Orchestrate containers on Windows Server using Kubernetes - https://learn.microsoft.com/en-us/training/modules/orchestrate-containers-windows-server-using-kubernetes/<br>
  
-## earning Path 3: Manage virtualization and containers in a hybrid environment (Deploying and configuring Azure VMs)  - ILT PPT Module 6
+## Learning Path 3: Manage virtualization and containers in a hybrid environment (Deploying and configuring Azure VMs)  - ILT PPT Module 6
 
 Module 1: Plan and deploy Windows Server IaaS Virtual Machines - https://docs.microsoft.com/en-us/learn/modules/plan-deploy-windows-server-iaas-virtual-machines/<br>
 Module 2: Customize Windows Server IaaS Virtual Machine images - https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-dns/<br>
