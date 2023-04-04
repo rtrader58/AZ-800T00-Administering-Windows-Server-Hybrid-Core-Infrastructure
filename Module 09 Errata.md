@@ -1,13 +1,12 @@
-# AZ-800T00 Configuring Windows Server Hybrid Core Infrastructure - Module 9 Errata <br>
-<br>
+# AZ-800T00 Configuring Windows Server Hybrid Core Infrastructure - Module 9 Errata 
 
-## NOTE:  After launching lab environment use the power commands to restart all the virtual machines with the exception of the Domain Controller.  (reason – virtual machines do not authenticate during start up do to they start before the DC does)  <br>
-<br>
+## NOTE:  After launching lab environment use the power commands to restart all the virtual machines with the exception of the Domain Controller.  (reason – virtual machines do not authenticate during start up do to they start before the DC does) 
 
-## Module 09:  Implementing Storage Solutions in Windows Server <br> 
-<br>
+### Known issue - Pasting from the lab instructions in PowerShell does not work in Server 2019 and 2022.  Open Notepad and paste from instruction into notepad then cut and paste into PoserShell.
 
-### Exercise 1: Implementing Data Deduplication <br>
+## Module 09:  Implementing Storage Solutions in Windows Server 
+
+### Exercise 1: Implementing Data Deduplication 
 
 Task 3: Test Data Deduplication <br>
 Step 11, 13 sand 16:  The Cmdlet will not paste from the instructions.  Manually copy and paste. <br>
