@@ -12,7 +12,7 @@ Option 2:  Open Notepad and paste from instruction into notepad then cut and pas
 
 ### Exercise 1: Deploying a new domain controller on Server Core
 
-Task 2: Prepare the AD DS installation and promote a remote server<br> 
+Task 2: Prepare the AD DS installation and promote a remote server<br>
 After step 25, type A then hit enter <br>
 
 ### Exercise 2: Configuring Group Policy  
