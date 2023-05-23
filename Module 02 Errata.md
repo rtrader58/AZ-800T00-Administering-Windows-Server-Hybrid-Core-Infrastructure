@@ -12,7 +12,7 @@ Step 9: If challenged with “Help us prove you’re not a bot” enter the Capt
 ### Exercise 1:  Preparing Azure AD for AD DS integration  
 
 Task 1: Create a custom domain in Azure <br>
-Step 2:  Use the credential used to redeem the Azure Pass  <br>
+Step 2:  Use the credential provided in the lab <br>
 
 Task 2: Create a user with the Global Administrator role <br> 
 After step 8, click on the new user you created and copy the new users User Principle Name.  I recommend you open Notepad on your computer connecting to the lab environment and paste the account so you can use it in future labs. <br> 
