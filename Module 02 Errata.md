@@ -15,7 +15,7 @@ Step 9: If challenged with “Help us prove you’re not a bot” enter the Capt
 ### Exercise 1:  Preparing Azure AD for AD DS integration  
 
 Task 1: Create a custom domain in Azure <br>
-Step 2:  Use the credential provided in the lab <br>
+Step 2: Use the credential provided in the lab <br>
 
 Task 2: Create a user with the Global Administrator role <br> 
 Step 2: After selecting New Users, select Creat new user <br> 
@@ -23,7 +23,7 @@ Step 4: Show password has been removed, remove check to Auto-generate password. 
 Step 5: Click Next: Properties - Scroll sown to setting and set usage location as United States <br> 
 Step 6: click Next: Assignments - click Add Role - select Global Administrator - click select <br> 
 Skip step 7:  <br> 
-Step 8 Click Review and Create - click create <br> 
+Step 8: Click Review and Create - click create <br> 
 
 After step 8, click on the new user you created and copy the new users User Principle Name.  I recommend you open Notepad on your computer connecting to the lab environment and paste the account so you can use it in future labs. <br> 
 
