@@ -75,7 +75,7 @@ Configure administrative access to Azure VMs running Windows Server <br>
 Configure Windows Server security in Azure VMs <br>
 Deprovision the Azure environment <br>
 
-## Learning Plan 4: Implement and manage an on-premises and hybrid networking infrastructure (Network infrastructure services in Windows Server) - ILT PPT Module 7
+## Learning Path 4: Implement and manage an on-premises and hybrid networking infrastructure (Network infrastructure services in Windows Server) - ILT PPT Module 7
 
 Module 1: Deploy and manage DHCP - https://docs.microsoft.com/en-us/learn/modules/deploy-manage-dynamic-host-configuration-protocol/<br>
 Module 2: Implement Windows Server DNS - https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-dns/<br>
