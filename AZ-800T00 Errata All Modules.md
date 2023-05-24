@@ -88,14 +88,13 @@ size = $size <br>
 
 ## Module 05: Implementing and configuring virtualization in Windows Server 
 
-### No Errata 
+### Exercise 1: Creating and configuring VMs
+Task 4: Manage Virtual Machines using Windows Admin Center
+Steps 1 - 3: The WAC is already installed on SEA-ADM1 you can skip to step 4
 
 ## Module 06 – Deploying and configuring Windows Server on Azure VMs 
 
-### Exercise 1: Creating and configuring VMs
-
-Task 4: Manage Virtual Machines using Windows Admin Center <br>
-Steps 1 - 3:  The WAC is already installed on SEA-ADM1 you can skip to step 4 <br>
+### No Errata
 
 ## Module 07:  Implementing and configuring network infrastructure services in Windows Server 
 
