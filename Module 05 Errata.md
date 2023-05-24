@@ -8,5 +8,7 @@ Option 2:  Open Notepad and paste from instruction into notepad then cut and pas
 
 ## Module 05: Implementing and configuring virtualization in Windows Server 
 
-### No Errata 
+### Exercise 1: Creating and configuring VMs
+Task 4: Manage Virtual Machines using Windows Admin Center <br>
+Steps 1 - 3: The WAC is already installed on SEA-ADM1 you can skip to step 4 <br>
 
