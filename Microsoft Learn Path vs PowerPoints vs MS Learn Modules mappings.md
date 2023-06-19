@@ -7,8 +7,8 @@ Module 2: Manage AD DS domain controllers and FSMO roles - https://learn.microso
 Module 3: Implement Group Policy Objects - https://learn.microsoft.com/en-us/training/modules/implement-group-policy-objects/<br>
 Module 4: Manage advanced features of AD DS - https://learn.microsoft.com/en-us/training/modules/manage-advanced-features-of-ad-ds/<br>
 
-### Lab 01 – Manage Azure Active Directory Identities <br>
-Implementing identity services and Group Policy <br>
+### Lab 01 – Implementing identity services and Group Policy
+
 Deploy a new domain controller on Server Core <br>
 Configure Group Policy <br>
 
