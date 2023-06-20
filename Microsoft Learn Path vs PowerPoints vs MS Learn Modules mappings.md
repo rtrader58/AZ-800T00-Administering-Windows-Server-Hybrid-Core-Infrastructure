@@ -15,7 +15,7 @@ Configure Group Policy <br>
 ## Learning Path 1: Deploy and manage identity infrastructure (Hybrid scenarios) - ILT PPT Module 2
 
 Module 5: Implement hybrid identity with Windows Server - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-identity-windows-server/<br>
-Module 6: Deploy and manage Azure IaaS Active Directory domain controllers in Azure - Dhttps://learn.microsoft.com/en-us/training/modules/deploy-manage-azure-iaas-active-directory-domain-controllers-azure/<br>
+Module 6: Deploy and manage Azure IaaS Active Directory domain controllers in Azure - https://learn.microsoft.com/en-us/training/modules/deploy-manage-azure-iaas-active-directory-domain-controllers-azure/<br>
 
 ### Lab 02 – Implementing integration between AD DS and Azure AD
 
