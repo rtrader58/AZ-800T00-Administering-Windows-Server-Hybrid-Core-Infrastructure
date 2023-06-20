@@ -115,7 +115,7 @@ Implement Storage Spaces Direct <br>
 
 ## Learning Path 5: Configure storage and file services (Implementing a hybrid file server infrastructure)  - ILT PPT Module 10
 
-Module 6: Implement a hybrid file server infrastructure Overview of Azure file services) - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-file-server-infrastructure/<br>
+Module 6: Implement a hybrid file server infrastructure (Azure file services) - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-file-server-infrastructure/<br>
 Module 7: Implement a hybrid file server infrastructure (Implementing Azure File Sync) - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-file-server-infrastructure/6-implement-azure-file-synchronization<br>
 
 ### Lab 10 – Implementing Azure File Sync
