@@ -12,3 +12,5 @@ Option 2:  Open Notepad and paste from instruction into notepad then cut and pas
 Task 4: Manage Virtual Machines using Windows Admin Center <br>
 Steps 1 - 3: The WAC is already installed on SEA-ADM1 you can skip to step 4 <br>
 
+When you select the Virtual Machine blade in the WAC you may see a prompt that states there is an update for that blade.  Follow the prompts to update the Virtual Machine blade <br>
+
