@@ -7,7 +7,7 @@ Module 2: Manage AD DS domain controllers and FSMO roles - https://learn.microso
 Module 3: Implement Group Policy Objects - https://learn.microsoft.com/en-us/training/modules/implement-group-policy-objects/<br>
 Module 4: Manage advanced features of AD DS - https://learn.microsoft.com/en-us/training/modules/manage-advanced-features-of-ad-ds/<br>
 
-### Lab 01 – Implementing identity services and Group Policy
+### Lab 01 – Implementing identity services and Group Policy (~ 45 Min)
 
 Deploy a new domain controller on Server Core <br>
 Configure Group Policy <br>
@@ -17,7 +17,7 @@ Configure Group Policy <br>
 Module 5: Implement hybrid identity with Windows Server - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-identity-windows-server/<br>
 Module 6: Deploy and manage Azure IaaS Active Directory domain controllers in Azure - https://learn.microsoft.com/en-us/training/modules/deploy-manage-azure-iaas-active-directory-domain-controllers-azure/<br>
 
-### Lab 02 – Implementing integration between AD DS and Azure AD
+### Lab 02 – Implementing integration between AD DS and Azure AD (~ 60 Min)
 
 Prepare Azure AD for integration with on-premises AD DS <br>
 Prepare on-premises AD DS for integration with Azure AD <br>
@@ -32,7 +32,7 @@ Module 2: Describe Windows Server administration tools - https://learn.microsoft
 Module 3: Perform post installation configuration of Windows Server - https://learn.microsoft.com/en-us/training/modules/perform-post-installation-configuration-of-windows-server/<br>
 Module 4: Just Enough Administration in Windows Server - https://learn.microsoft.com/en-us/training/modules/just-enough-administration-windows-server/<br>
 
-### Lab 03 – Managing Windows Server
+### Lab 03 – Managing Windows Server (~ 45 Min)
 
 Implement and configure Windows Admin Center <br>
 
@@ -41,7 +41,7 @@ Implement and configure Windows Admin Center <br>
 Module 5: Administer and manage Windows Server IaaS Virtual Machine remotely - https://docs.microsoft.com/en-us/learn/modules/administer-manage-windows-server-iaas-virtual-machine-remotely/<br>
 Module 6: Manage hybrid workloads with Azure Arc - https://docs.microsoft.com/en-us/learn/modules/manage-hybrid-workloads-azure-arc/<br>
 
-### Lab 04 – Using Windows Admin Center in hybrid scenarios
+### Lab 04 – Using Windows Admin Center in hybrid scenarios (~ 60 Min)
 
 Test hybrid connectivity by using Azure Network Adapter <br>
 Deploy Windows Admin Center gateway in Azure <br>
@@ -55,7 +55,7 @@ Module 3: Secure Hyper-V workloads - https://learn.microsoft.com/en-us/training/
 Module 4: Run containers on Windows Server - https://learn.microsoft.com/en-us/training/modules/run-containers-windows-server/<br>
 Module 5: Orchestrate containers on Windows Server using Kubernetes - https://learn.microsoft.com/en-us/training/modules/orchestrate-containers-windows-server-using-kubernetes/<br>
 
-### Lab 05 – Implementing and configuring virtualization in Windows Server
+### Lab 05 – Implementing and configuring virtualization in Windows Server (~ 60 Min)
 
 Create and configure VMs <br>
 Install and configure containers <br>
@@ -66,7 +66,7 @@ Module 6: Plan and deploy Windows Server IaaS Virtual Machines - https://docs.mi
 Module 7: Customize Windows Server IaaS Virtual Machine images - https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-dns/<br>
 Module 8: Automate the configuration of Windows Server IaaS Virtual Machines - https://docs.microsoft.com/en-us/learn/modules/automate-configuration-of-windows-server-iaas-virtual-machines/<br>
 
-### Lab 06 – Deploying and configuring Windows Server on Azure VMs
+### Lab 06 – Deploying and configuring Windows Server on Azure VMs (~ 90 Min)
 
 Author ARM templates for an Azure VM deployment <br>
 Modify ARM templates to include VM extension-based configuration <br>
@@ -82,7 +82,7 @@ Module 2: Implement Windows Server DNS - https://docs.microsoft.com/en-us/learn/
 Module 3: Implement IP Address Management - https://docs.microsoft.com/en-us/learn/modules/implement-ip-address-management/<br>
 Module 4: Implement remote access - https://docs.microsoft.com/en-us/learn/modules/implement-remote-access/<br>
 
-### Lab 07 – Implementing and configuring network infrastructure services in Windows Server
+### Lab 07 – Implementing and configuring network infrastructure services in Windows Server  (~ 30 Min)
 
 Deploy and configure DHCP <br>
 Deploy and configure DNS <br>
@@ -93,7 +93,7 @@ Module 5: Implement hybrid network infrastructure - https://docs.microsoft.com/e
 Module 6: Implement DNS for Windows Server IaaS VMs - https://docs.microsoft.com/en-us/learn/modules/implement-dns-for-windows-server-iaas-virtual-machines/<br>
 Module 7: Implement Windows Server IaaS VM IP addressing and routing - https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-iaas-virtual-machine-ip-addressing-routing/<br>
 
-### Lab 08 – Implementing hybrid networking infrastructure
+### Lab 08 – Implementing hybrid networking infrastructure (~ 60 Min)
 
 Implement virtual network routing in Azure <br>
 Implement DNS name resolution in Azure <br>
@@ -106,7 +106,7 @@ Module 3: Implement Windows Server Data Deduplication - https://docs.microsoft.c
 Module 4: Implement Windows Server iSCSI - https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-iscsi/<br>
 Module 5: Implement Windows Server Storage Replica - https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-storage-replica/<br>
 
-### Lab 09 – Implementing storage solutions in Windows Server
+### Lab 09 – Implementing storage solutions in Windows Server (~ 60 Min)
 
 Implement Data Deduplication <br>
 Configure Internet Small Computer System Interface iSCSI storage <br>
@@ -118,7 +118,7 @@ Implement Storage Spaces Direct <br>
 Module 6: Implement a hybrid file server infrastructure (Azure file services) - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-file-server-infrastructure/<br>
 Module 7: Implement a hybrid file server infrastructure (Implementing Azure File Sync) - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-file-server-infrastructure/6-implement-azure-file-synchronization<br>
 
-### Lab 10 – Implementing Azure File Sync
+### Lab 10 – Implementing Azure File Sync  (~ 60 Min)
 
 Implement DFS Replication in your on-premises environment <br>
 Create and configure a sync group <br>
