@@ -10,6 +10,6 @@ Option 2:  Open Notepad and paste from instruction into notepad then cut and pas
 
 ## Module 03:  Managing Windows Servers 
 
-### Skip Exercise 1: Implementing and using remote server administration
+## Exercise 1: Implementing and using remote server administration
 ### Skip Task 1: Install Windows Admin Center
 
