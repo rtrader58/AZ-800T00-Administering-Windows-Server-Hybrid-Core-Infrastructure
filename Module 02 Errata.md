@@ -36,6 +36,8 @@ Synchronization may take up to 15 minutes until the step 2 updates with status o
 
 ### Exercise 5: Implementing Azure AD integration features in AD DS  
 
+## Cannot accomplich these steps - read through this exercise only
+
 Task 1: Enable self-service password reset in Azure<br> 
 Step 12:  It may take up to 15 minutes before Password Reset is available after activating the P2 subscription.  Try refreshing the screen <br>
 
