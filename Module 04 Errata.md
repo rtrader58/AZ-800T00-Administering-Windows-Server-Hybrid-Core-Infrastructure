@@ -34,7 +34,7 @@ size = $size <br>
 
 ### Replace Exercise 3 Task 1 with the following
 
-Though the script fails, I created a work-around. It does require a manual install of WAC on the az800;04-vmwac, but in the real world, you would not have a script like in this lab.<br>
+Though the script fails, I created a work-around. It does require a manual install of WAC on the az800104-vmwac, but in the real world, you would not have a script like in this lab.<br>
 
 On SEA-ADM1: <br>
 
