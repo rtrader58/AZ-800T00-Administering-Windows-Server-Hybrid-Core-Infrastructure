@@ -34,8 +34,7 @@ size = $size <br>
 
 ### Replace Exercise 3 Task 1 with the following
 
-Though the script fails, I created a work-around. It does require a manual install of WAC on the az800;04-vmwac, but in the real world, students would not have a script like in this lab. I tested these steps a second time, before posting them here.
-Use at your discretion. <br>
+Though the script fails, I created a work-around. It does require a manual install of WAC on the az800;04-vmwac, but in the real world, you would not have a script like in this lab.<br>
 
 On SEA-ADM1: <br>
 
@@ -45,7 +44,10 @@ On the left under Settings, click Connect <br>
 Click Download RDP file <br>
 Click Open File <br>
 Click Connect in the warning pop up window <br>
-Type is Pa55w.rd1234 for the password and click OK <br>
+Wnen promted  <br>
+Account:  Student <br>
+Password: Pa55w.rd1234  <br>
+click OK <br>
 Click Yes <br>
 
 Once logged in: <br>
