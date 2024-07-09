@@ -11,7 +11,7 @@ Option 2:  Open Notepad and paste from instruction into notepad then cut and pas
 ### Exercise 1: Provisioning Azure VMs running Windows Server 
 
 Step 2.  The credentials are located on the Resources Tab at the top of the lab instructions <br>
-Step 4.  Use the following steps to create the Storage > Select Mount Storage account > Select your subscription in the dropdown box > Click Apply > Select We will create storage account for you > click nesxt <br>
+Step 4.  Use the following steps to create the Storage > Select Mount Storage account > Select your subscription in the dropdown box > Click Apply > Select We will create storage account for you > click next <br>
 Step 5.  Clcik Manage files to upload the files <br>
 Step 6:  Does not paste correctly.  Paste into notepad.  Change the first lint <Azure_Region> to EastUS. Then copy and paste from notepad into the Cloud Shellpaste the remaining lines together <br>
 <br>
