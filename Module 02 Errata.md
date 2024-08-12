@@ -38,8 +38,8 @@ Synchronization may take up to 15 minutes until the step 2 updates with status o
 ### Exercise 5: Implementing Azure AD integration features in AD DS  
 
 ## Unable to do remaining steps in Task 1 due to Microsoft change to Licensing of Premium plans - Skip to Task 2
-Skip Task 4: Task 4: Verify pass-through authentication in Azure <BR>
-Skip Task 5: Install and register the Azure AD Password Protection proxy service and DC agent <BR>
+
+Task 5: Install and register the Azure AD Password Protection proxy service and DC agent - You can install but will be unable to register <BR>
 Skip Task 6: Enable password protection in Azure <br>
 Ensure you do Exercise 6: Cleaning up <BR>
 
