@@ -10,26 +10,35 @@ Option 2:  Open Notepad and paste from instruction into notepad then cut and pas
 
 ## Lab Setup:  
 
+Ignore the note you will be able to create a tenant <br>
+Step 4: Type Microsoft Entra ID and Select
 Step 9: If challenged with “Help us prove you’re not a bot” enter the Captia and hit submit. <br> 
 
 ### Exercise 1:  Preparing Azure AD for AD DS integration  
 
+Scipt lab setup as you have already completed <br>
 Task 1: Create a custom domain in Azure <br>
 Step 2: Use the credential provided in the lab <br>
 
 Task 2: Create a user with the Global Administrator role <br> 
 Step 2: After selecting New Users, select Creat new user <br> 
+After step 4: Copy the new users User Principle Name and Password into Notepad so you can use it in later steps. 
 Step 5: Click Next: Properties - Scroll sown to setting and set usage location as United States <br> 
 
-After step 8, click on the new user you created and copy the new users User Principle Name.  I recommend you open Notepad on your computer connecting to the lab environment and paste the account so you can use it in future labs. <br> 
-
-Task 3: Change the password for the user with the Global Administrator role  <br><br>
-Step 3 and 4 :  Paste the logon name and passowrd you previously copied. <br> 
+Task 3: Change the password for the user with the Global Administrator role  <br>
+Step 1: Open a New InPrivate window
+Step 3 and 4: Paste the logon name and passowrd you previously copied. <br> 
 Step 5:  I pasted the password used by the labuser account found under the Resources tab <br>
+After Step 5: Close the New InPrivate window
 
-Exercise 2: Preparing on-premises AD DS for Microsoft Entra ID integration <br>
+### Exercise 2: Preparing on-premises AD DS for Microsoft Entra ID integration <br>
+
 Task 1: Install IdFix <br>
-Step 1:  On SEA-ADM1, open Microsoft Edge, and then browse to +++https://github.com/microsoft/idfix+++ remove the +++ <br>
+Step 1: On SEA-ADM1, open Microsoft Edge, and then browse to +++https://github.com/microsoft/idfix+++ remove the +++ <br>
+
+### Exercise 3: Downloading, installing, and configuring Microsoft Entra Connect
+
+Ensure you are in the custom tenant you added <br>
 
 ### Exercise 4: Verifying integration between AD DS and Azure AD  
 

@@ -6,44 +6,54 @@
 Option 1:  Open PowerShell ISE and paste into the PowerShell Prompt <br>
 Option 2:  Open Notepad and paste from instruction into notepad then cut and paste into PoserShell. <br>
 
-## Module 01: Implementing identity services and Group Policy  
+## Module 01: Implementing identity services and Group Policy
 
 ### Exercise 1: Deploying a new domain controller on Server Core
 
 Task 2: Prepare the AD DS installation and promote a remote server<br>
+Step 13: Ignore the DNS delegation warning <br>
+Step 17: First copy the script into the PowerShell ISE <br>
+Step 20 and 21Are the same step one with and one with out the pasted varibles <br>
 After step 25, type A then hit enter <br>
 
 ### Exercise 2: Configuring Group Policy  
 
-Task 3: Review the effects of the GPO's settings<br>
+Task 3: Review the effects of the GPO's settings<br>  
 Step 5: You may get disconnected from the VM, select Retry Connection if prompted  <br> 
 
 Note:  You may have to do this each time you switch log in between users. <br>
 
-## Module 02:  Implementing integration between AD DS and Azure AD  
-
 ## Lab Setup:  
 
+Ignore the note you will be able to create a tenant <br>
+Step 4: Type Microsoft Entra ID and Select
 Step 9: If challenged with “Help us prove you’re not a bot” enter the Captia and hit submit. <br> 
 
 ### Exercise 1:  Preparing Azure AD for AD DS integration  
 
+Scipt lab setup as you have already completed <br>
 Task 1: Create a custom domain in Azure <br>
-Step 2: Use the credential used to redeem the Azure Pass  <br>
+Step 2: Use the credential provided in the lab <br>
 
 Task 2: Create a user with the Global Administrator role <br> 
-
 Step 2: After selecting New Users, select Creat new user <br> 
-Step 4: Show password has been removed, remove check to Auto-generate password. Create a password you will remember (recommend Pa55w.rd1234) <br> 
+After step 4: Copy the new users User Principle Name and Password into Notepad so you can use it in later steps. 
 Step 5: Click Next: Properties - Scroll sown to setting and set usage location as United States <br> 
-Step 6: click Next: Assignments - click Add Role - select Global Administrator - click select <br> 
-Skip step 7:  <br> 
-Step 8: Click Review and Create - click create <br> 
 
-After step 8, click on the new user you created and copy the new users User Principle Name.  I recommend you open Notepad on your computer connecting to the lab environment and paste the account so you can use it in future labs. <br> 
+Task 3: Change the password for the user with the Global Administrator role  <br>
+Step 1: Open a New InPrivate window
+Step 3 and 4: Paste the logon name and passowrd you previously copied. <br> 
+Step 5:  I pasted the password used by the labuser account found under the Resources tab <br>
+After Step 5: Close the New InPrivate window
 
-Task 3: Change the password for the user with the Global Administrator role  <br><br>
-Step 3:  Paste the logon name you previously copied. <br> 
+### Exercise 2: Preparing on-premises AD DS for Microsoft Entra ID integration <br>
+
+Task 1: Install IdFix <br>
+Step 1: On SEA-ADM1, open Microsoft Edge, and then browse to +++https://github.com/microsoft/idfix+++ remove the +++ <br>
+
+### Exercise 3: Downloading, installing, and configuring Microsoft Entra Connect
+
+Ensure you are in the custom tenant you added <br>
 
 ### Exercise 4: Verifying integration between AD DS and Azure AD  
 
@@ -51,15 +61,12 @@ Synchronization may take up to 15 minutes until the step 2 updates with status o
 
 ### Exercise 5: Implementing Azure AD integration features in AD DS  
 
-## Unable to do remaining steps in the lab due to Microsoft change to Licensing of Premium plans
+## Unable to do remaining steps in Task 1 due to Microsoft change to Licensing of Premium plans - Skip to Task 2
 
-Task 1: Enable self-service password reset in Azure<br> 
-Step 12:  It may take up to 15 minutes before Password Reset is available after activating the P2 subscription.  Try refreshing the screen <br>
+Task 5: Install and register the Azure AD Password Protection proxy service and DC agent - You can install but will be unable to register <BR>
+Skip Task 6: Enable password protection in Azure <br>
 
-Task 5: Install and register the Azure AD Password Protection proxy service and DC agent <br> 
-Steps 7, 8 and 9 the CMDlets need to be copied and pasted as individual commands.  If needed, when pasting the commands remove the >> at the end<br>
-Step 7:  When pasting the 2nd and 3rd  line change the .msi to .exe <br>
-Step 8: Wait approximately 5 minutes before running the restart command to allow the Agent to install <br>
+Ensure you do Exercise 6: Cleaning up <BR>
 
 ## Module 03:  Managing Windows Servers 
 
