@@ -7,7 +7,6 @@
 Option 1:  Open PowerShell ISE and paste into the PowerShell Prompt <br>
 Option 2:  Open Notepad and paste from instruction into notepad then cut and paste into PoserShell. <br>
 
-
 ## Module 01: Implementing identity services and Group Policy  
 
 ### Exercise 1: Deploying a new domain controller on Server Core
