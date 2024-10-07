@@ -14,7 +14,6 @@ Task 2: Prepare the AD DS installation and promote a remote server<br>
 Step 13: Ignore the DNS delegation warning <br>
 Step 17: First copy the script into the PowerShell ISE <br>
 Step 20 and 21: Are the same step one with and one with out the pasted varibles <br>
-After step 25, type A then hit enter <br>
 
 ### Exercise 2: Configuring Group Policy  
 
