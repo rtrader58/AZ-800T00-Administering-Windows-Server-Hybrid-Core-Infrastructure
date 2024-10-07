@@ -13,3 +13,9 @@ Option 2:  Open Notepad and paste from instruction into notepad then cut and pas
 ## Exercise 1: Implementing and using remote server administration
 ### Skip Task 1: Install Windows Admin Center
 
+Task 4: Verify remote administration <br>
+Step 1:  Stay connected to SEA-DC1 <br>
+
+Task 5: Administer servers with Remote PowerShell <br>
+Instead on PowerShell console use the PowerShell ISE <br>
+
