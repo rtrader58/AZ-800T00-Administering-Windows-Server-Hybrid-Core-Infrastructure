@@ -22,6 +22,8 @@ Step 5: You may get disconnected from the VM, select Retry Connection if promp
 
 Note:  You may have to do this each time you switch log in between users. <br>
 
+## Module 02:  Implementing integration between AD DS and Azure AD  
+
 ## Lab Setup:  
 
 Ignore the note you will be able to create a tenant <br>
@@ -64,7 +66,6 @@ Synchronization may take up to 15 minutes until the step 2 updates with status o
 
 Task 5: Install and register the Azure AD Password Protection proxy service and DC agent - You can install but will be unable to register <BR>
 Skip Task 6: Enable password protection in Azure <br>
-
 Ensure you do Exercise 6: Cleaning up <BR>
 
 ## Module 03:  Managing Windows Servers 
