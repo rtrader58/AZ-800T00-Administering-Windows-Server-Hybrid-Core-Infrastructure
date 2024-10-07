@@ -83,24 +83,63 @@ Instead on PowerShell console use the PowerShell ISE <br>
 
 ### Exercise 1: Provisioning Azure VMs running Windows Server 
 
-Step 6:  Does not paste correctly.  Paste the top 2 lines individually.  Then paste the remaining lines together <br>
+Task 1: Create an Azure resource group by using an Azure Resource Manager template <br>
+Step 2.  The credentials are located on the Resources Tab at the top of the lab instructions <br>
+Step 4.  Use the following steps to create the Storage > Select Mount Storage account > Select your subscription in the dropdown box > Click Apply > Select We will create storage account for you > click next <br>
+Step 5.  Click Manage files to upload the files. C:\allfiles\labfiles\lab04\l04-sub_template.json<br>
+Step 6:  Does not paste correctly.  Paste into notepad.  Change the first lint <Azure_Region> to EastUS. Then copy and paste from notepad into the Cloud Shellpaste the remaining lines together <br>
 
-### Exercise 3: Deploying Windows Admin Center gateway in Azure 
+Task 2: Create an Azure VM by using an Azure Resource Manager template <br>
+Step 1: Json files are located in C:\allfiles then the path listed <br>
+Step 6: Starting address not address range  <br>
 
-If the the powerShell Cmdlets do not paste correctly.  Copy and paste them <br>
+### Exercise 2: Implementing hybrid connectivity by using the Azure Network Adapter
 
-Step 6: replace the script parametes with the following <br>
+Task 1: Register Windows Admin Center with Azure <br>
+Skip steps 1 - 3 as the Windows Admin Center is already installed <br>
 
-$scriptParams = @{ <br>
-ResourceGroupName = $rgName <br>
-Name = 'az800l04-vmwac' <br>
-VirtualNetworkName = $vnetName <br>
-SubnetName = $subnetName <br>
-PublicIPAddressName = $pipname<br> 
-SecurityGroupName = $nsgname <br>
-GenerateSslCert = $true <br>
-size = $size <br>
-} <br>
+### Exercise 3: Deploying Windows Admin Center gateway in Azure  Does not work as written - Skip to my alternate steps 
+
+### Alternate Steps for - Exercise 3: Deploying Windows Admin Center gateway in Azure 
+
+### Replace Exercise 3 Task 1 steps 5 - 11 with the following
+
+Though the script fails, I created a work-around. It does require a manual install of WAC on the az800104-vmwac, but in the real world, you would not have a script like in this lab.<br>
+
+On SEA-ADM1: <br>
+
+In the Azure portal, search for Virtual Machines <br>
+Click the link for az800l04-vm0 <br>
+On the left under Settings, click Connect <br>
+Click Download RDP file <br>
+Click Open File <br>
+Click Connect in the warning pop up window <br>
+Wnen promted  <br>
+Account:  Student <br>
+Password: Pa55w.rd1234  <br>
+click OK <br>
+Click Yes <br>
+
+Once logged in: <br>
+Click NO in the Network blue pane <br>
+Close any open windows <br>
+Click the Start button and type Edge, click Microsoft edge <br>
+Complete the Edge setup wizard <br>
+In the Edge url field, type Windows Admin Center <br>
+Click the first returned link <br>
+Click Download Windows Admin center button <br>
+Click Open file <br>
+Close Edge <br>
+Check the "I accept these terms" box, click Next 5 times <br>
+Click Install <br>
+Click Finish <br>
+Right Click Start > Shut down or sign out > Disconnect <br>
+
+Pick up on Task 2: Review results of the script provisioning <br>
+Step 1: <br>
+Locate the vm named az800l04-vm0 in the Azure portal <br>
+Copy the public IP address on the Overview page <br>
+Open a new browser tab > Right click the URL field and choose paste the public IP address, you will need to add https:// in front of the ip address<br>
 
 ## Module 05: Implementing and configuring virtualization in Windows Server 
 
