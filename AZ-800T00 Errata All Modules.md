@@ -70,7 +70,14 @@ Ensure you do Exercise 6: Cleaning up <BR>
 
 ## Module 03:  Managing Windows Servers 
 
-### No Errata 
+## Exercise 1: Implementing and using remote server administration
+### Skip Task 1: Install Windows Admin Center
+
+Task 4: Verify remote administration <br>
+Step 1:  Stay connected to SEA-DC1 <br>
+
+Task 5: Administer servers with Remote PowerShell <br>
+Instead on PowerShell console use the PowerShell ISE <br>
 
 ## Module 04:  Using Windows Admin Center in hybrid scenarios 
 
