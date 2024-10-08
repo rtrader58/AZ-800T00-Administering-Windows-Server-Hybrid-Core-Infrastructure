@@ -33,7 +33,7 @@ If the the powerShell Cmdlets do not paste correctly.  Copy and paste them into 
 
 ### Replace Exercise 3 Task 1 steps 5 - 11 with the following
 
-Though the script fails, I created a work-around. It does require a manual install of WAC on the az800104-vmwac, but in the real world, you would not have a script like in this lab.<br>
+Though the script fails, I created a work-around. It does require a manual install of WAC on the az800l04-vm0, but in the real world, you would not have a script like in this lab.<br>
 
 On SEA-ADM1: <br>
 
