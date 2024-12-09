@@ -11,22 +11,22 @@ Option 2:  Open Notepad and paste from instruction into notepad then cut and pas
 ## Lab Setup:  
 
 Ignore the note you will be able to create a tenant <br>
-Step 4: Type Microsoft Entra ID and Select
+Step 4: Type Microsoft Entra ID and Select <br>
 Step 9: If challenged with “Help us prove you’re not a bot” enter the Captia and hit submit. <br> 
 
 ### Exercise 1:  Preparing Azure AD for AD DS integration  
 
-Scipt lab setup as you have already completed <br>
+Scip lab setup as you have already completed <br>
 Task 1: Create a custom domain in Azure <br>
 Step 2: Use the credential provided in the lab <br>
 
 Task 2: Create a user with the Global Administrator role <br> 
 Step 2: After selecting New Users, select Creat new user <br> 
-After step 4: Copy the new users User Principle Name and Password into Notepad so you can use it in later steps. 
+After step 4: Copy the new users User Principle Name and Password into Notepad so you can use it in later steps <br>
 Step 5: Click Next: Properties - Scroll sown to setting and set usage location as United States <br> 
 
 Task 3: Change the password for the user with the Global Administrator role  <br>
-Step 1: Open a New InPrivate window
+Step 1: Open a New InPrivate window<br>
 Step 3 and 4: Paste the logon name and passowrd you previously copied. <br> 
 Step 5:  I pasted the password used by the labuser account found under the Resources tab <br>
 After Step 5: Close the New InPrivate window
