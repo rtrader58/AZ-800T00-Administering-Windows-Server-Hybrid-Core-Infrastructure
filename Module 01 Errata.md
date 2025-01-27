@@ -18,7 +18,7 @@ Step 20 and 21: Are the same step one with and one with out the pasted varibles 
 ### Exercise 2: Configuring Group Policy  
 
 Task 3: Review the effects of the GPO's settings<br>  
-Step 5: You may get disconnected from the VM, select Retry Connection if prompted  <br> 
+Step 5: You may get disconnected from the VM, select Retry Connection if prompted <br> 
 
 Note:  You may have to do this each time you switch log in between users. <br>
 
