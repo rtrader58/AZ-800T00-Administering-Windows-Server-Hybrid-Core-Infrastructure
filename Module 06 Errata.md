@@ -8,5 +8,6 @@ Option 2:  Open Notepad and paste from instruction into notepad then cut and pas
 
 ## Module 06 – Deploying and configuring Windows Server on Azure VMs 
 
-### No Errata 
+Exercise 4: Configuring administrative access to Azure VMs running Windows Server <br>
+Skip steps 4 - 7 as the Log Analytics Workspace agent has been retired <br>
 
