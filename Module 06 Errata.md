@@ -9,5 +9,6 @@ Option 2:  Open Notepad and paste from instruction into notepad then cut and pas
 ## Module 06 – Deploying and configuring Windows Server on Azure VMs 
 
 Exercise 4: Configuring administrative access to Azure VMs running Windows Server <br>
-Skip steps 4 - 7 as the Log Analytics Workspace agent has been retired <br>
+Skip steps 4 - 6: The Log Analytics Workspace agent has been retired <br>
+Step 7: Click continue at the top of the page then save <br>
 
