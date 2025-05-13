@@ -4,7 +4,7 @@
 
 ### Known issue - Pasting from the lab instructions in PowerShell does not work in Server 2019 and 2022.<br>
 Option 1:  Open PowerShell ISE and paste into the PowerShell Prompt <br>
-Option 2:  Open Notepad and paste from instruction into notepad then cut and paste into PoserShell. <br>
+Option 2:  Open Notepad and paste from instruction into notepad then cut and paste into PowerShell. <br>
 
 ## Module 02:  Implementing integration between AD DS and Azure AD  
 
@@ -16,7 +16,7 @@ Step 9: If challenged with “Help us prove you’re not a bot” enter the Capt
 
 ### Exercise 1:  Preparing Azure AD for AD DS integration  
 
-Scip lab setup as you have already completed <br>
+Skip lab setup as you have already completed <br>
 Task 1: Create a custom domain in Azure <br>
 Step 2: Use the credential provided in the lab <br>
 
@@ -27,7 +27,7 @@ Step 5: Click Next: Properties - Scroll sown to setting and set usage location a
 
 Task 3: Change the password for the user with the Global Administrator role  <br>
 Step 1: Open a New InPrivate window<br>
-Step 3 and 4: Paste the logon name and passowrd you previously copied. <br> 
+Step 3 and 4: Paste the logon name and password you previously copied. <br> 
 Step 5:  I pasted the password used by the labuser account found under the Resources tab <br>
 After Step 5: Close the New InPrivate window
 
@@ -50,5 +50,11 @@ Synchronization may take up to 15 minutes until the step 2 updates with status o
 
 Task 5: Install and register the Azure AD Password Protection proxy service and DC agent - You can install but will be unable to register <BR>
 Skip Task 6: Enable password protection in Azure <br>
-Ensure you do Exercise 6: Cleaning up <BR>
+
+## Ensure you do Exercise 6: Cleaning up
+
+### Exercise 6: Cleaning up
+
+Task 1: Uninstall Azure AD Connect
+Step 3: Double click Microsoft Entra Connect Sync
 
