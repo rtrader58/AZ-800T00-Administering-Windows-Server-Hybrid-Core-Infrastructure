@@ -14,7 +14,7 @@ Task 1: Create an Azure resource group by using an Azure Resource Manager templa
 Step 2.  The credentials are located on the Resources Tab at the top of the lab instructions <br>
 Step 4.  Use the following steps to create the Storage > Select Mount Storage account > Select your subscription in the dropdown box > Click Apply > Select We will create storage account for you > click next <br>
 Step 5.  Click Manage files to upload the files. C:\allfiles\labfiles\lab04\l04-sub_template.json<br>
-Step 6:  Does not paste correctly.  Paste into notepad.  Change the first lint <Azure_Region> to EastUS. Then copy and paste from notepad into the Cloud Shellpaste the remaining lines together <br>
+Step 6:  Does not paste correctly.  Paste into notepad.  Change the first line <Azure_Region> to EastUS. Then copy and paste from notepad into the Cloud Shell<br>
 
 Task 2: Create an Azure VM by using an Azure Resource Manager template <br>
 Step 1: Json files are located in C:\allfiles then the path listed <br>
