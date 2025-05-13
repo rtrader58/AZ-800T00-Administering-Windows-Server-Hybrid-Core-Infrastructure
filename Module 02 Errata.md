@@ -50,5 +50,11 @@ Synchronization may take up to 15 minutes until the step 2 updates with status o
 
 Task 5: Install and register the Azure AD Password Protection proxy service and DC agent - You can install but will be unable to register <BR>
 Skip Task 6: Enable password protection in Azure <br>
-Ensure you do Exercise 6: Cleaning up <BR>
+
+## Ensure you do Exercise 6: Cleaning up
+
+### Exercise 6: Cleaning up
+
+Task 1: Uninstall Azure AD Connect
+Step 3: Double click Microsoft Entra Connect Sync
 
