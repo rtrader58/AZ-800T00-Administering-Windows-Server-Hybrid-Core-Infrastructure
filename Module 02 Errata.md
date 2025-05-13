@@ -16,7 +16,7 @@ Step 9: If challenged with “Help us prove you’re not a bot” enter the Capt
 
 ### Exercise 1:  Preparing Azure AD for AD DS integration  
 
-Scip lab setup as you have already completed <br>
+Skip lab setup as you have already completed <br>
 Task 1: Create a custom domain in Azure <br>
 Step 2: Use the credential provided in the lab <br>
 
