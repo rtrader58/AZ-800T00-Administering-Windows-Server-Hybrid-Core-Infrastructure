@@ -18,12 +18,14 @@ Step 6:  Does not paste correctly.  Paste into notepad.  Change the first line <
 
 Task 2: Create an Azure VM by using an Azure Resource Manager template <br>
 Step 1: Json files are located in C:\allfiles then the path listed <br>
+Step 3: adminusername Student, Use the Password from the resources tab (Note passwword must be 12 characters - add 1234)
 Step 6: Starting address not address range  <br>
 
 ### Exercise 2: Implementing hybrid connectivity by using the Azure Network Adapter
 
 Task 1: Register Windows Admin Center with Azure <br>
-Skip steps 1 - 3 as the Windows Admin Center is already installed <br>
+Skip steps 1 - 10 as the Windows Admin Center is already installed <br>
+Step 12: Create an Azure resource group by using an Azure Resource Manager template <br>
 
 ### Exercise 3: Deploying Windows Admin Center gateway in Azure  Does not work as written - Skip to my alternate steps 
 
@@ -33,42 +35,13 @@ If the the powerShell Cmdlets do not paste correctly.  Copy and paste them into 
 
 ### Replace Exercise 3 Task 1 steps 5 - 11 with the following
 
-Though the script fails, I created a work-around. It does require a manual install of WAC on the az800l04-vm0, but in the real world, you would not have a script like in this lab.<br>
+Step 9:  User is Student, Password it the password you created when you created the VM <br>
 
-On SEA-ADM1: <br>
+### Exercise 4: Verifying functionality of the Windows Admin Center gateway in Azure
 
-In the Azure portal, search for Virtual Machines <br>
-Click the link for az800l04-vm0 <br>
-On the left under Settings, click Connect <br>
-Click Download RDP file <br>
-Click Open File <br>
-Click Connect in the warning pop up window <br>
-Wnen promted  <br>
-Account:  Student <br>
-Password: Pa55w.rd1234  <br>
-click OK <br>
-Click Yes <br>
+Task 1: Connect to the Windows Admin Center gateway running in Azure VM
+Step 4: User is Student, Password it the password you created when you created the VM <br>
 
-Once logged in: <br>
-Click NO in the Network blue pane <br>
-Close any open windows <br>
-Click the Start button and type Edge, click Microsoft edge <br>
-Complete the Edge setup wizard <br>
-In the Edge url field, type Windows Admin Center <br>
-Click the first returned link <br>
-Click Download Windows Admin center button <br>
-Click Open file <br>
-Close Edge <br>
-Check the "I accept these terms" box, click Next 5 times <br>
-Click Install <br>
-Click Finish <br>
-Right Click Start > Shut down or sign out > Disconnect <br>
-
-Pick up on Task 2: Review results of the script provisioning <br>
-Step 1: <br>
-Locate the vm named az800l04-vm0 in the Azure portal <br>
-Copy the public IP address on the Overview page <br>
-Open a new browser tab > Right click the URL field and choose paste the public IP address, you will need to add https:// in front of the ip address<br>
 
 
 
