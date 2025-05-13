@@ -1,8 +1,9 @@
 # AZ-800T00 Configuring Windows Server Hybrid Core Infrastructure - Module 4 Errata
 
-## NOTE:  After launching lab environment use the power commands to restart all the virtual machines with the exception of the Domain Controller.  (reason – virtual machines do not authenticate during start up do to they start before the DC does)  
+## NOTE:  After launching each lab environment use the power commands to restart all the virtual machines with the exception of the Domain Controller.  (reason – virtual machines do not authenticate during start up because they finish starting before the DC does)  
 
-### Known issue - Pasting from the lab instructions in PowerShell does not work in Server 2019 and 2022<br>
+### Known issue - Pasting from the lab instructions in PowerShell does not work in Server 2019 and 2022.<br>
+
 Option 1:  Open PowerShell ISE and paste into the PowerShell Prompt <br>
 Option 2:  Open Notepad and paste from instruction into notepad then cut and paste into PowerShell. <br>
 
@@ -29,11 +30,7 @@ Step 12: Create an Azure resource group by using an Azure Resource Manager templ
 
 ### Exercise 3: Deploying Windows Admin Center gateway in Azure  Does not work as written - Skip to my alternate steps 
 
-If the the powerShell Cmdlets do not paste correctly.  Copy and paste them into notepad first<br>
-
-### Alternate Steps for - Exercise 3: Deploying Windows Admin Center gateway in Azure 
-
-### Replace Exercise 3 Task 1 steps 5 - 11 with the following
+If the the powerShell Cmdlets do not paste correctly.  Copy and paste them into PowerShell ISE first<br>
 
 Step 9:  User is Student, Password it the password you created when you created the VM <br>
 

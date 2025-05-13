@@ -1,8 +1,9 @@
 # AZ-800T00 Configuring Windows Server Hybrid Core Infrastructure - Errata All Modules
 
-## NOTE:  After launching each lab environment use the power commands to restart all the virtual machines with the exception of the Domain Controller.  (reason – virtual machines do not authenticate during start up because they start before the DC does)  
+## NOTE:  After launching each lab environment use the power commands to restart all the virtual machines with the exception of the Domain Controller.  (reason – virtual machines do not authenticate during start up because they finish starting before the DC does)  
 
 ### Known issue - Pasting from the lab instructions in PowerShell does not work in Server 2019 and 2022.<br>
+
 Option 1:  Open PowerShell ISE and paste into the PowerShell Prompt <br>
 Option 2:  Open Notepad and paste from instruction into notepad then cut and paste into PowerShell. <br>
 
@@ -27,12 +28,12 @@ Note:  You may have to do this each time you switch log in between users. <br>
 ## Lab Setup:  
 
 Ignore the note you will be able to create a tenant <br>
-Step 4: Type Microsoft Entra ID and Select <br>
+Step 4: Type Microsoft Entra ID and Select
 Step 9: If challenged with “Help us prove you’re not a bot” enter the Captia and hit submit. <br> 
 
 ### Exercise 1:  Preparing Azure AD for AD DS integration  
 
-Scipt lab setup as you have already completed <br>
+Skipt lab setup as you have already completed <br>
 Task 1: Create a custom domain in Azure <br>
 Step 2: Use the credential provided in the lab <br>
 
