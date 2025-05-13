@@ -27,7 +27,7 @@ Step 5: Click Next: Properties - Scroll sown to setting and set usage location a
 
 Task 3: Change the password for the user with the Global Administrator role  <br>
 Step 1: Open a New InPrivate window<br>
-Step 3 and 4: Paste the logon name and passowrd you previously copied. <br> 
+Step 3 and 4: Paste the logon name and password you previously copied. <br> 
 Step 5:  I pasted the password used by the labuser account found under the Resources tab <br>
 After Step 5: Close the New InPrivate window
 
