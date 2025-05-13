@@ -4,7 +4,7 @@
 
 ### Known issue - Pasting from the lab instructions in PowerShell does not work in Server 2019 and 2022<br>
 Option 1:  Open PowerShell ISE and paste into the PowerShell Prompt <br>
-Option 2:  Open Notepad and paste from instruction into notepad then cut and paste into PoserShell. <br>
+Option 2:  Open Notepad and paste from instruction into notepad then cut and paste into PowerShell. <br>
 
 ## Module 04:  Using Windows Admin Center in hybrid scenarios 
 
