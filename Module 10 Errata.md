@@ -9,6 +9,11 @@ Option 2:  Open Notepad and paste from instruction into notepad then cut and pas
 
 ## Module 10:  Implementing Azure File Sync 
 
+### Exercise 3: Replacing DFS Replication with File Sync-based replication
+
+Task 1: Add SEA-SVR1 as a server endpoint
+Step 16: Wait for the Health status changes to Healthy
+
 ### Exercise 4: Verifying replication and enabling cloud tiering 
 
 Task 2: Enable cloud tiering <br>
