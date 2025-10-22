@@ -13,6 +13,13 @@ Azure Platforms Blog - https://social.msdn.microsoft.com/Forums/enUS/home?catego
 Channel 9 - https://channel9.msdn.com? <br>
 Azure Blog - https://azure.microsoft.com/en-us/blog <br>
 Microsoft Learn Blog - https://www.microsoft.com/en-us/learning/community-blog.aspx <br>
+Describe core Azure architectural components - https://learn.microsoft.com/en-us/training/modules/azure-architecture-fundamentals/ <br>
+Explore Azure compute services - https://learn.microsoft.com/en-us/training/modules/azure-compute-fundamentals/ <br>
+Explore Azure networking services - https://learn.microsoft.com/en-us/training/modules/azure-networking-fundamentals/ <br>
+Explore Azure Storage services - https://learn.microsoft.com/en-us/training/modules/azure-storage-fundamentals/ <br>
+Explore Azure database and analytics services - https://learn.microsoft.com/en-us/training/modules/azure-database-fundamentals/ <br>
+Choose the best Azure serverless technology for your business scenario - https://learn.microsoft.com/en-us/training/modules/serverless-fundamentals/ <br>
+Choose the best monitoring service for visibility, insight, and outage mitigation - https://learn.microsoft.com/en-us/training/modules/monitoring-fundamentals/ <br>
 ## Module 1
 https://docs.microsoft.com/en-us/previous-versions/windows/desktop/policy/group-policy-objects <br>
 https://docs.microsoft.com/en-us/previous-versions/windows/desktop/policy/policy-processing <br>
