@@ -27,24 +27,26 @@ Note:  You may have to do this each time you switch log in between users. <br>
 
 ## Lab Setup:  
 
+## Lab Setup:  
+
 Ignore the note you will be able to create a tenant <br>
-Step 4: Type Microsoft Entra ID and Select
+Step 4: Type Microsoft Entra ID and Select <br>
 Step 9: If challenged with “Help us prove you’re not a bot” enter the Captia and hit submit. <br> 
 
 ### Exercise 1:  Preparing Azure AD for AD DS integration  
 
-Skipt lab setup as you have already completed <br>
+Skip lab setup as you have already completed <br>
 Task 1: Create a custom domain in Azure <br>
 Step 2: Use the credential provided in the lab <br>
 
 Task 2: Create a user with the Global Administrator role <br> 
 Step 2: After selecting New Users, select Creat new user <br> 
-After step 4: Copy the new users User Principle Name and Password into Notepad so you can use it in later steps. 
+After step 4: Copy the new users User Principle Name and Password into Notepad so you can use it in later steps <br>
 Step 5: Click Next: Properties - Scroll sown to setting and set usage location as United States <br> 
 
 Task 3: Change the password for the user with the Global Administrator role  <br>
-Step 1: Open a New InPrivate window
-Step 3 and 4: Paste the logon name and passowrd you previously copied. <br> 
+Step 1: Open a New InPrivate window<br>
+Step 3 and 4: Paste the logon name and password you previously copied. <br> 
 Step 5:  I pasted the password used by the labuser account found under the Resources tab <br>
 After Step 5: Close the New InPrivate window
 
@@ -63,12 +65,18 @@ Synchronization may take up to 15 minutes until the step 2 updates with status o
 
 ### Exercise 5: Implementing Azure AD integration features in AD DS  
 
-## Unable to do remaining steps in Task 1 due to Microsoft change to Licensing of Premium plans - Skip to Task 2
+## Unable to do exercise 5 due to Microsoft change to Licensing of Premium plans - Skip to Exercise 6
 
-Task 5: Install and register the Azure AD Password Protection proxy service and DC agent - You can install but will be unable to register <BR>
+### If you want to see how to install the Azure AD Password Protection service on-premise do Task 5: Install and register the Azure AD Password Protection proxy service and DC agent - You can install but will be unable to register
+
 Skip Task 6: Enable password protection in Azure <br>
-Ensure you do Exercise 6: Cleaning up <BR>
 
+## Ensure you do Exercise 6: Cleaning up
+
+### Exercise 6: Cleaning up
+
+Task 1: Uninstall Azure AD Connect <br>
+Step 3: Double click Microsoft Entra Connect Sync <br>
 ## Module 03:  Managing Windows Servers 
 
 ## Exercise 1: Implementing and using remote server administration
