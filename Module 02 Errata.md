@@ -57,6 +57,6 @@ Skip Task 6: Enable password protection in Azure <br>
 
 ### Exercise 6: Cleaning up
 
-Task 1: Uninstall Azure AD Connect
-Step 3: Double click Microsoft Entra Connect Sync
+Task 1: Uninstall Azure AD Connect <br>
+Step 3: Double click Microsoft Entra Connect Sync <br>
 
