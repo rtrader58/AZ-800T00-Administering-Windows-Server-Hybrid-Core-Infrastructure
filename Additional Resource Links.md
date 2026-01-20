@@ -6,7 +6,8 @@ Replay - https://replay.interfacett.com <br>
 Interface Technical Training – https://interfacett.com <br>
 Microsoft Certified: Windows Server Hybrid Administrator Associate - https://docs.microsoft.com/en-us/learn/certifications/windows-server-hybrid-administrator/ <br>
 AZ-800 Exam objectives - https://docs.microsoft.com/en-us/learn/certifications/exams/az-800 <br>
-AZ-800 Exam Study guide -https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-800<br>
+AZ-800 Exam Study guide - https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-800<br>
+AZ-800 Exam Prep Videos - https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-800-01-fy25#time=09m17s
 Exam discount - https://www.interfacett.com/microsoft-certification-exams/ <br>
 Windows Server Documentation - https://docs.microsoft.com/en-us/windows-server/ <br>
 Azure Platforms Blog - https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform  <br> 
